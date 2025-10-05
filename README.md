@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 <!-- Social Media Badges -->
 <p align="center">
-  <a href="https://facebook.com/YourFacebookLink" target="_blank">
+  <a href="https://www.facebook.com/share/17UBf8Wf4r/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/YourInstagramLink" target="_blank">
