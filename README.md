@@ -57,6 +57,23 @@ Here are some ideas to get you started:
 
 ---
 
+## 📈 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawansahani09&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 👀 Profile Visitors  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pawansahani09&label=Profile+Views&color=00FF9C&style=for-the-badge" />
+</p>
+
+
+---
+
 ## 🏆 GitHub Trophies  
 
 <p align="center">
