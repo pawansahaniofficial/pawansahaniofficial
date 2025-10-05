@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawansahani09&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawansahani09&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pawansahaniofficial&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawansahaniofficial&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
