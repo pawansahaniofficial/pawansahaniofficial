@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pawansahani09&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pawansahaniofficial&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
