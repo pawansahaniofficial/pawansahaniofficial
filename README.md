@@ -125,5 +125,13 @@ Here are some ideas to get you started:
 
 ---
 
+## ✨ Developer Vibes  
+
+<p align="center">
+  <img src="https://i.ibb.co/fqNqv4y/coding-vibe.gif" width="420"/>
+</p>
+
+---
+
 ⭐️ From [Pawan Sahani](https://github.com/pawansahani09)
 
