@@ -132,18 +132,26 @@ Here are some ideas to get you started:
 
 ---
 
-## ✨ Fun GIF  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400"/>
-</p>
-
----
-
 ## ✨ Developer Vibes  
 
 <p align="center">
-  <img src="https://i.ibb.co/fqNqv4y/coding-vibe.gif" width="420"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="420" alt="Coding Vibes GIF"/>
+</p>
+
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it’s bad." 💻</em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="420" alt="Programmer Life"/>
+</p>
+
+<p align="center">
+  <em>"Eat. Sleep. Code. Repeat. 🚀"</em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="420" alt="Debugging Vibes"/>
 </p>
 
 ---
