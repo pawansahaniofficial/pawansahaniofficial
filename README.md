@@ -96,6 +96,20 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect With Me  
 
+---
+
+<!-- Social Media Badges -->
+<p align="center">
+  <a href="https://facebook.com/YourFacebookLink" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/YourInstagramLink" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@YourTiktokLink" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</p>
 <p align="center">
   <a href="https://pawansahani.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFB703?style=for-the-badge&logo=google-chrome&logoColor=black" />
@@ -103,6 +117,7 @@ Here are some ideas to get you started:
   <a href="mailto:pawansahani09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
 <p align="center">
   <a href="https://github.com/pawansahani09" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
