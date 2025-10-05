@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ## 👀 Profile Visitors  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawansahani09&label=Profile+Views&color=00FF9C&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=pawansahaniofficial&label=Profile+Views&color=00FF9C&style=for-the-badge" />
 </p>
 
 
