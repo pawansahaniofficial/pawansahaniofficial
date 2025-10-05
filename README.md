@@ -85,6 +85,13 @@ Here are some ideas to get you started:
 ## 🌐 Connect With Me  
 
 <p align="center">
+  <a href="https://pawansahani.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FFB703?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+  <a href="mailto:pawansahani09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+<p align="center">
   <a href="https://github.com/pawansahani09" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
