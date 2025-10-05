@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ## 📈 Activity Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?usernamepawansahaniofficial &theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawansahaniofficial&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
