@@ -14,6 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><p align="center">
+<!-- 3D Glowing Hacker Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/3zZsWPN/pawan-cyber-banner.gif" alt="Pawan Sahani Banner" width="100%" />
+</p>
+
+<!-- Typing Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+the+Future+with+Code+🧑‍💻;Innovating+with+Logic+and+Passion+⚡;Turning+Ideas+into+Reality+🚀" alt="Typing SVG" />
+</p>
+
+---
+
   <img src="2.png" alt="Pawan Banner" width="100%" />
 </p>
 
