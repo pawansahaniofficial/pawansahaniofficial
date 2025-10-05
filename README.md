@@ -103,7 +103,7 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/share/17UBf8Wf4r/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/YourInstagramLink" target="_blank">
+  <a href="https://www.instagram.com/developer_pawan093?igsh=azVkeXNnZm52M2l3" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@sigma_pawan093?_r=1&_d=ek544jj0k75jki&sec_uid=MS4wLjABAAAAWRm3ftMifbP62c6YIXnZKrWceQ-xFWgioAOoPsdtLgisCYQBVJWb0HU1zXnBCF-I&share_author_id=7233582745564267522&sharer_language=en&source=h5_m&u_code=e81j9735367h7g&timestamp=1759648537&user_id=7233582745564267522&sec_user_id=MS4wLjABAAAAWRm3ftMifbP62c6YIXnZKrWceQ-xFWgioAOoPsdtLgisCYQBVJWb0HU1zXnBCF-I&item_author_type=1&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7554952550090082049&share_link_id=c174d3cf-5cf6-4175-9c9a-c3038356afd3&share_app_id=1233&ugbiz_name=ACCOUNT&ug_btm=b8727%2Cb7360&social_share_type=5&enable_checksum=1" target="_blank">
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
   <a href="https://pawansahani.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFB703?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
-  <a href="mailto:pawansahani09@gmail.com" target="_blank">
+  <a href="mailto:mpgamer247@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
