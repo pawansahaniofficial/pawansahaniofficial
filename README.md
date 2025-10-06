@@ -19,9 +19,10 @@ Here are some ideas to get you started:
   <img src="https://i.ibb.co/3zZsWPN/pawan-cyber-banner.gif" alt="Pawan Sahani Banner" width="100%" />
 </p>
 
-<p align="center">नम पार्वती पतये : हर हर महादेव 📿 🚩</p>
 
----
+<h1 align="center">नम पार्वती पतये : हर हर महादेव 📿 🚩</h1>
+
+
 
 <!-- Typing Tagline -->
 <p align="center">
