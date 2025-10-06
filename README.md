@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --><p align="center">
 <!-- 3D Glowing Hacker Banner -->
 
-<h1 align="center">नम पार्वती पतये : हर हर महादेव 📿</h1>
+<h1 align="center">हर हर महादेव 📿</h1>
 
 
 <p align="center">
