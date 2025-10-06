@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><p align="center">
 <!-- 3D Glowing Hacker Banner -->
+
+<h1 align="center">नम पार्वती पतये : हर हर महादेव 📿</h1>
+
+
 <p align="center">
   <img src="https://i.ibb.co/3zZsWPN/pawan-cyber-banner.gif" alt="Pawan Sahani Banner" width="100%" />
 </p>
-
-
-<h1 align="center">नम पार्वती पतये : हर हर महादेव 📿 🚩</h1>
-
-
 
 <!-- Typing Tagline -->
 <p align="center">
