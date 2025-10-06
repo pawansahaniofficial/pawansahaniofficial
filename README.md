@@ -19,6 +19,12 @@ Here are some ideas to get you started:
   <img src="https://i.ibb.co/3zZsWPN/pawan-cyber-banner.gif" alt="Pawan Sahani Banner" width="100%" />
 </p>
 
+---
+
+<p align="center">नम पार्वती पतये : हर हर महादेव 📿 🚩</p>
+
+---
+
 <!-- Typing Tagline -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+the+Future+with+Code+🧑‍💻;Innovating+with+Logic+and+Passion+⚡;Turning+Ideas+into+Reality+🚀" alt="Typing SVG" />
