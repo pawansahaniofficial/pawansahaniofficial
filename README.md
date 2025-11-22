@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-  <img src="2.png" alt="Pawan Banner" width="100%" />
+  <img src="1.jpg" alt="Pawan Banner" width="100%" />
 </p>
 
 <!-- Typing Intro -->
